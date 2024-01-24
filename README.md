@@ -5,9 +5,9 @@ I collaborated with other students like myself, working seamlessly and always re
 Although it was challenging, it proved to be very interesting.
 
    My contributions to this site include:
-      - Block "Becoming our partner";
-      - Creating a form to fill out, namely the Questionnaire for Program Partners;
-      - Footer.
+      * Block "Becoming our partner";
+      * Creating a form to fill out, namely the Questionnaire for Program Partners;
+      * Footer.
 
    During my work on this project, I utilized HTML and CSS for typesetting.
 The layout of the blocks is adaptive, ranging from the mobile version to the desktop version, ensuring correct display on tablets (with adaptive adjustments for both images and text).
